@@ -7,7 +7,7 @@
   2. Second innovation is smart contracts and pioneered DeFi and NFT(developed by ETH)
   3. Third innovation is that scales smart contract computation.
 
-- see [internet computer document] (https://internetcomputer.org/docs/current/developer-docs/ic-overview)
+- see [internet computer document](https://internetcomputer.org/docs/current/developer-docs/ic-overview)
 
 ## Installation 
 
